@@ -10,3 +10,7 @@ Farflung is a free daily geography puzzle I built. You get 5 clues, pick a count
 Play it here: https://farflunggame.fun/
 
 Disclosure: I'm the developer of Farflung.
+
+
+## Other browser game projects I made
+- [PokéBonk Wiki (BonkDex)](https://pokebonk.info/) - my unofficial fan wiki for the PokéBonk browser survivor game: play in the browser, Pokédex, guides, tier list maker and type chart.
